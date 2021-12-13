@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.red {
+  background-color: red;
+}
+.row {
+  display: inline-flex;
+  justify-content: space-around;
+  flex-direction: .row;
+}
